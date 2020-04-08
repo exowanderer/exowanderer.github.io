@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics & Mathematics, University of Central Florida (2006) 
+* M.S. in Mathematics, University of Central Florida (2009)
+* M.S. in Astrophysics, University of Maryland (2011) 
+* Ph.D in Astrophysics, University of Maryland (2015) 
 
 Work experience
 ======
