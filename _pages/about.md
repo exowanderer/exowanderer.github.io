@@ -18,17 +18,17 @@ Moreover, I was the Deputy Project Manager for the [Exoplanet Characterization T
 ## Publications  
 My full list of publications is available [on ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Fraine&db_key=PRE); but here are a few recent highlights:
 
-Fraine, J.D., Wakeford, H.R., Kataria, T., Stevenson, K.B., OST Exoplanet Characterization Team, 2018  
 "Transiting Exoplanet Characterization Beyond 2030: A Case for Observing Giant Planets with Giant Telescopes"  
+Fraine, J.D., Wakeford, H.R., Kataria, T., Stevenson, K.B., OST Exoplanet Characterization Team, 2018  
 [National Academy of Sciences Exoplanet Science Strategy(https://astrobiology.nasa.gov/news/exoplanet-science-strategy/)
 
-Fraine J.D., Deming, D., Benneke, B., Knutson, H., Jordán, A., Espinoza, N., Madhusudhan, N., Wilkins, A., Todorov, K., 2014:  
 "Water Vapour Absorption from the Clear Atmosphere of an Exo-Neptune"  
+Fraine J.D., Deming, D., Benneke, B., Knutson, H., Jordán, A., Espinoza, N., Madhusudhan, N., Wilkins, A., Todorov, K., 2014:  
 [Nature, Vol. 513, Issue 7519, pp. 526-529.](https://www.nature.com/articles/nature13785?proof=true&platform=oscar&draft=journal)
 
 
+"Spitzer Transits of the Super-Earth GJ 1214 b and Implications for Its Atmosphere"  
 Fraine J.D., Deming D., Gillon M., Jehin E., Demory B.O., Benneke B., Seager S., Lewis N.K., Knutson H., and Désert J.M., 2013:  
-"Spitzer Transits of the Super-Earth GJ 1214 b and Implications for Its Atmosphere"
 [ApJ, Vol. 765, Issue 2, article id. 127.](https://iopscience.iop.org/article/10.1088/0004-637X/765/1/24)
 
 ## Code
