@@ -18,7 +18,8 @@ Moreover, I was the Deputy Project Manager for the [Exoplanet Characterization T
 ## Publications  
 My full list of publications is available [on ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Fraine&db_key=PRE); but here are a few recent highlights:
 
-**Transiting Exoplanet Characterization Beyond 2030: A Case for Observing Giant Planets with Giant Telescopes**  
+**Transiting Exoplanet Characterization Beyond 2030:**  
+**A Case for Observing Giant Planets with Giant Telescopes**  
 Fraine, J.D., Wakeford, H.R., Kataria, T., Stevenson, K.B., OST Exoplanet Characterization Team, 2018  
 [National Academy of Sciences Exoplanet Science Strategy](https://astrobiology.nasa.gov/news/exoplanet-science-strategy/)
 
