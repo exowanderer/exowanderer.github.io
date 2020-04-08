@@ -42,9 +42,9 @@ I am particularly proud of these projects:
     Dr. Jessica Krick (IPAC), Dr. James Ingalls (IPAC), and I (SSI) are developing several machine learning pathways to use existing Spitzer Space Telescope time-series calibration data to pre-calibrate all exoplanet time-series observations with the Sptizer Space Telescope. Our foci are eXtreme Gradient Boosted Trees, Gradient Adpated Gaussian Kernel Regression, and Deep Convolutional Neural Networks, respectively. 
 
 
-[Wanderer](https://github.com/exowanderer/Wanderer)  
-    Time series photometric pipeline optimized for the Spitzer Space Telescope, with hooks for the James Webb Space Telescope and various ground based telescopes, such at the Kitt Peak National Observatory. See [the paper](https://iopscience.iop.org/article/10.1088/0004-637X/765/1/24).  
-    When you load the code, it kindly reminds you that "Not all who wander are lost."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wanderer](https://github.com/exowanderer/Wanderer)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time series photometric pipeline optimized for the Spitzer Space Telescope, with hooks for the James Webb Space Telescope and various ground based telescopes, such at the Kitt Peak National Observatory. See [the paper](https://iopscience.iop.org/article/10.1088/0004-637X/765/1/24).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you load the code, it kindly reminds you that "Not all who wander are lost."
 
 
 [Skywalker](http://github.com/munozcar/skywalker)  
