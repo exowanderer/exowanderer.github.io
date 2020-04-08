@@ -33,7 +33,6 @@ Fraine J.D., Deming D., Gillon M., Jehin E., Demory B.O., Benneke B., Seager S.,
 
 ## Code
 The vast majority of my day-to-day work life is to develop python code for scientific and engineering data analysis. Almost all of it can be found at my [Github](https://github.com/exowanderer) page.
-
 I am particularly proud of these projects:  
 
 [VAE-LSTM-Predictor](https://github.com/exowanderer/vaelstmpredictor)  
