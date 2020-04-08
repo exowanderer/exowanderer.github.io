@@ -18,24 +18,48 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2018 - present: Research Scientist
+  * Space Science Institute
+  * Duties included: 
+    * Deep learning generation of 1D physical models
+    * Deep Learning time series anomaly detection and characterization: Kepler, Spitzer, TESS, JWST
+    * Machine learning calibration for James Webb Space Telescope
+    * Exoplanet atmospheric characterization: HST, Spitzer, JWST
+    * Calibration and Simulation of JWST for Exoplanet Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Feb 2017 - Nov 2018: Research Scientist
+  * Space Telescope Science Institute
+  * Duties included: 
+    * Machine learning calibration for James Webb Space Telescope
+    * Creator of the JWST Machine Learning Task Force
+    * Exoplanet atmospheric characterization: HST, Spitzer, JWST
+    * Calibration, simulation, coordiantion of NIRISS for exoplanet science
+  * Supervisor: Dr. Alex Fullerton
+
+* Sept 2015 - Feb 2017: Research Assistant
+  * University of Arizona Steward Observatory
+  * Duties included:
+    * Machine learning calibration for James Webb Space Telescope
+    * Exoplanet atmospheric characterization: HST, Spitzer, JWST
+    * Assisting with the coordination of NIRCam GTO Exoplanet Program
+  * Supervisor: Professor Marcia Reike
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning and Data Science
+  * Generative Deep learning: replication for physical models
+  * Deep learning anomaly detection: time series and compute vision
+  * Bayesian inference: classical and deep learning approaches
+  * Time series analysis: classical and deep learning approaches
+* Astrophysics
+  * Exoplanet characterization
+  * Atmospheric physics
+  * Astrobiology
+* Programming:
+  * Python
+  * SQL
+  * MATLAB
+  * C/C++
 
 Publications
 ======
