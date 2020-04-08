@@ -34,7 +34,7 @@ Fraine J.D., Deming D., Gillon M., Jehin E., Demory B.O., Benneke B., Seager S.,
 ## Code
 The vast majority of my day-to-day work life is to develop python code for scientific and engineering data analysis. Almost all of it can be found at my [Github](https://github.com/exowanderer) page.
 
-I am particularly proud of these projects:
+I am particularly proud of these projects:  
 
 [VAE-LSTM-Predictor](https://github.com/exowanderer/vaelstmpredictor)  
     Teaching a computer to do tricks can be hard; teaching it to do physics can be harder. My student and I are currently developing a physics model emulator that can rapidly MIMIC the physical behaviour of stellar and exoplanetary atmospheric signals by using genetic algorithms with generative deep learning to rapidly develop new physics based models from large databases of well-vetted models (e.g. PHOENIX, ATLAS).
