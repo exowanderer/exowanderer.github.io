@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Research Scientist at the [Space Science Institute](http://spacescience.org/) with dual appointments in the [Center for Extrasolar planetary Systems and Center for Data Sciene](https://www.spacescience.org/research.php).
+I'm an Research Scientist at the [Space Science Institute](http://spacescience.org/) with dual appointments in the [Center for Extrasolar Planetary Systems and Center for Data Science](https://www.spacescience.org/research.php).
 
 My main research interest is the development of machine learning applications to better extract information from astronomical data sets, especially in the puruit of exoplanet characterization. Having recently workd for the [Space Telescope Science Institute](http://www.stsci.edu/) as the Exoplanet and Machine Learning Research Scientist on the James Webb Space Telescope Mission, I developed anomaly detection algorithms for both spatially and temporally correlated anomaly signals. I strongly enjoy collaborating with scientists, engineers, and adminstrators on developing the best platform for exoplanet characterization from space telescopes.
 
