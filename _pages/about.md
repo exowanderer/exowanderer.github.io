@@ -53,5 +53,5 @@ I am particularly proud of these projects:
 
 Copyright 2019 Jonathan David Fraine unless otherwise noted.  
 Licensed under [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)  
-Find me on [Twitter](https://twitter.com/exowanderer)  
-[Email](mailto:jdfraine [at] gmail.com)
+
+Find me on [Twitter](https://twitter.com/exowanderer) or by [Email](mailto:jdfraine [at] gmail.com)
