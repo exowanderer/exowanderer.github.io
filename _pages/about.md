@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an Research Scientist at the [Space Science Institute](http://spacescience.org/) with dual appointments in the [Center for Extrasolar Planetary Systems and Center for Data Science](https://www.spacescience.org/research.php).
 
-My main research interest is the development of machine learning applications to better extract information from astronomical data sets, especially in the puruit of exoplanet characterization. Having recently workd for the [Space Telescope Science Institute](http://www.stsci.edu/) as the Exoplanet and Machine Learning Research Scientist on the James Webb Space Telescope Mission, I developed anomaly detection algorithms for both spatially and temporally correlated anomaly signals. I strongly enjoy collaborating with scientists, engineers, and adminstrators on developing the best platform for exoplanet characterization from space telescopes.
+My main research interest is the development of machine learning applications to better extract information from astronomical data sets, especially in the pursuit of exoplanet characterization. Having recently worked for the [Space Telescope Science Institute](http://www.stsci.edu/) as the Exoplanet and Machine Learning Research Scientist on the James Webb Space Telescope Mission, I developed anomaly detection algorithms for both spatially and temporally correlated anomaly signals. I strongly enjoy collaborating with scientists, engineers, and administrators on developing the best platform for exoplanet characterization from space telescopes.
 
 Moreover, I was the Deputy Project Manager for the [Exoplanet Characterization Toolkit](https://github.com/exoctk), and am still proud to collaborate with them to develop our "Proposal-to-Publication" [Exoplanetary Science Engine](https://exoctk.stsci.edu/)
 
@@ -33,14 +33,14 @@ Fraine J.D., Deming D., Gillon M., Jehin E., Demory B.O., Benneke B., Seager S.,
 [ApJ, Vol. 765, Issue 2, article id. 127.](https://iopscience.iop.org/article/10.1088/0004-637X/765/1/24)
 
 ## Code
-The vast majority of my day-to-day work life is to develop python code for scientific and engineering data analysis. Almost all of it can be found at my [Github](https://github.com/exowanderer) page.
+The vast majority of my day-to-day work life is to develop python code for scientific and engineering data analysis. Almost all of it can be found at my [GitHub](https://github.com/exowanderer) page.
 I am particularly proud of these projects:  
 
 [VAE-LSTM-Predictor](https://github.com/exowanderer/vaelstmpredictor)  
     Teaching a computer to do tricks can be hard; teaching it to do physics can be harder. My student and I are currently developing a physics model emulator that can rapidly MIMIC the physical behaviour of stellar and exoplanetary atmospheric signals by using genetic algorithms with generative deep learning to rapidly develop new physics based models from large databases of well-vetted models (e.g. PHOENIX, ATLAS).
 
 [Spitzer Machine Learning Calibration](http://github.com/exowanderer/SpitzerDeeplearningNetwork)  
-    Dr. Jessica Krick (IPAC), Dr. James Ingalls (IPAC), and I (SSI) are developing several machine learning pathways to use existing Spitzer Space Telescope time-series calibration data to pre-calibrate all exoplanet time-series observations with the Sptizer Space Telescope. Our foci are eXtreme Gradient Boosted Trees, Gradient Adpated Gaussian Kernel Regression, and Deep Convolutional Neural Networks, respectively. 
+    Dr. Jessica Krick (IPAC), Dr. James Ingalls (IPAC), and I (SSI) are developing several machine learning pathways to use existing Spitzer Space Telescope time-series calibration data to pre-calibrate all exoplanet time-series observations with the Sptizer Space Telescope. Our foci are eXtreme Gradient Boosted Trees, Gradient Adapted Gaussian Kernel Regression, and Deep Convolutional Neural Networks, respectively. 
 
 
 [Wanderer](https://github.com/exowanderer/Wanderer)  
